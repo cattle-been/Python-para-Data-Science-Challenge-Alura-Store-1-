@@ -52,7 +52,7 @@ El notebook está dividido en **7 secciones** ordenadas lógicamente:
 4. Productos más y menos vendidos por cada tienda
 5. Costo promedio de envío por cada tienda
 6. Dashboard comparativo
-7. Recomendación final (puntuación ponderada + conclusión)
+7. Recomendación final (conclusión)
 ```
 
 ---
